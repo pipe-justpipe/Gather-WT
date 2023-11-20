@@ -531,18 +531,3 @@ nav {
     margin:0 20px 0 0 ;
   }
 }
-  /* @media only screen and (max-width: 480px) {
-  
-    nav {
-      display: flex;
-      justify-content: space-between;
-      font-size: 11px;
-      margin-top: 0;
-      padding-top: 5%;
-      font-family: poppins;
-    }
-    body{
-      background-color: #ffffff;
-    }
-  }
- */
