@@ -78,7 +78,13 @@ li a:hover::after{
   margin-left: 5px;
 }
 li a:visited{
-  color: var(--orange)
+  color: var(--orange);
+}
+
+li a:visited:after{
+  color: var(--orange);
+  content: '\2022';
+  margin-left: 5px;
 }
 
 .top__container {
